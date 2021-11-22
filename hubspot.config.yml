@@ -1,0 +1,12 @@
+defaultPortal: Hubz
+portals:
+  - name: Hubz
+    portalId: 21007727
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CPKVvcLULxIJAA0AAAAA4A0DGO-aggoguJz_DCju6QwyFJ9MoP48JS8TuE5tysqkhdc2x5TAOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhS8zCvAQ3GC_pOz1ODCWRIF4vIbB0oDbmExUgBaAA
+        expiresAt: '2021-11-22T15:41:35.888Z'
+    personalAccessKey: >-
+      CiQ0NzdmN2RlOS1jMDMyLTRkNWYtOTVmNi0xZTIxY2EwYTYxYzQQ75qCChi4nP8MKhkABeaRgjbawefThK98yPaZF_tByunFBuYzSgNuYTE
